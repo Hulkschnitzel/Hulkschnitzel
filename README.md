@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Hulkschnitzel
 - 👀 I’m interested in stuff.
-- 🌱 I’m currently studying Physics.
-- 💞️ I’m looking to collaborate on stuff.
+- 🌱 I’m currently studying Computer Science.
